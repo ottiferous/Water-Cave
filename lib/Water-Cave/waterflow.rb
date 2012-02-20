@@ -53,7 +53,6 @@ class Cave
 						return
 					end
 				end
-
 			end
 		end
 	end
