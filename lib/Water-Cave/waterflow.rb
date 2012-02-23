@@ -1,10 +1,3 @@
-#####################
-#     Function
-# for water flowing
-# in the damn cave.
-#
-#####################
-
 class Cave
   
   def initialize(height = 30, width = 30)
@@ -53,9 +46,9 @@ class Cave
             return
           end
         end
-
       end
     end
+
   end
 
 end
